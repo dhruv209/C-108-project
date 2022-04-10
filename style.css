@@ -1,0 +1,36 @@
+body{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background-color:bisque
+}
+.header_div{
+    background-color:greenyellow;
+    color:darkgray;
+}
+.header_div p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:orangered;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+button{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    text-shadow: 5px 5px 10px black;
+    color:sandybrown;
+    text-align: center;
+    font-size:15px;
+    line-height: 3;
+background-color: grey; 
+    font-weight: bolder;
+    bottom:0;
+    position:fixed;
+    width:100%;
+
+
+}
